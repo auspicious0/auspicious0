@@ -1,7 +1,9 @@
-### Hi there 👋
+####  :wave: Welcome my github profile !
+
 <div align="center">
-  
+
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ShinJuncheol&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
 
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -10,6 +12,7 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+
 </div>
 
 
