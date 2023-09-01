@@ -22,11 +22,14 @@
 
 </div>
 
+#### :pencil2: Study log
+
+
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auspicious0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auspicious0&show_icons=true&theme=transparent)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=auspicious0&show_icons=true&theme=tokyonight)
 
 </div>
 
