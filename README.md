@@ -8,7 +8,7 @@
 
 </div>
 
-####  :clipboard: Once I've Used 
+####  :clipboard: Project more than once 
 
 <div align="center">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
